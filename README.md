@@ -3,6 +3,6 @@
 
 <ul>
 
-<li> Web annotation architecture document is added. </li>
+<li> <a href='Files/web_annotation_architecture.doc'> Web annotation architecture document </a> is added. </li>
 
 </ul>
