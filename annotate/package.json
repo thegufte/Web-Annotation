@@ -1,0 +1,21 @@
+{
+  "title": "Annotator add on ",
+  "name": "annotate",
+  "version": "0.0.1",
+  "description": "An add-on that creates annotations and shows them",
+  "main": "index.js",
+  "author": "Güfte Seren Sürmeli",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ],
+  "dependencies": {
+    "annotator": "latest"
+  },
+  "devDependencies": {
+    "browserify": "latest"
+  }
+}
